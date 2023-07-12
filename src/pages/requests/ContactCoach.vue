@@ -1,5 +1,1 @@
-<template>
-  <section>
-    <h1>Coaches Detail</h1>
-  </section>
-</template>
+<template>CONTACT A COACH</template>

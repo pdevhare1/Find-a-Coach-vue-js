@@ -1,6 +1,5 @@
 <template>
-  <section>
-    <h1>Coaches Detail</h1>
-    <router-link to="/coachesf/c1/contact">Contact</router-link>
-  </section>
+  DETAILS FOR COACH
+  <router-view></router-view>
+  <router-link to="/coaches/c1/contact">Contact</router-link>
 </template>
